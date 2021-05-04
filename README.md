@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sunjinshuai&count_private&show_icons=true&theme=radical&bg_color=DEG,DD5744,834687&title_color=ffffff&text_color=ffffff" />
-
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sunjinshuai&count_private&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - 🔭 I’m currently working on `iOS`
 - 🌱 I’m currently learning `iOS` `Dart` `Nodejs` `Java`
